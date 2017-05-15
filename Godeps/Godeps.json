@@ -1,0 +1,51 @@
+{
+	"ImportPath": "github.com/LudaGoProject/goapi",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "golang.org/x/crypto/bcrypt",
+			"Rev": "ab89591268e0c8b748cbe4047b00197516011af5"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/blowfish",
+			"Rev": "ab89591268e0c8b748cbe4047b00197516011af5"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "84f0e6f92b10139f986b1756e149a7d9de270cdc"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2",
+			"Rev": "ad516a297a9f2a74ecc244861b298c94bdd28b9d"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2/internal",
+			"Rev": "ad516a297a9f2a74ecc244861b298c94bdd28b9d"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "1e99a4f9d247b28c670884b9a8d6801f39a47b77"
+		},
+		{
+			"ImportPath": "gopkg.in/Sirupsen/logrus.v0",
+			"Comment": "v0.11.5",
+			"Rev": "ba1b36c82c5e05c4f912a88eab0dcd91a171688f"
+		},
+		{
+			"ImportPath": "gopkg.in/authboss.v1",
+			"Comment": "v1.1.0",
+			"Rev": "be948e61d1f76faa4f25bd0eb32a4fb6c46659e5"
+		},
+		{
+			"ImportPath": "gopkg.in/authboss.v1/auth",
+			"Comment": "v1.1.0",
+			"Rev": "be948e61d1f76faa4f25bd0eb32a4fb6c46659e5"
+		},
+		{
+			"ImportPath": "gopkg.in/authboss.v1/internal/response",
+			"Comment": "v1.1.0",
+			"Rev": "be948e61d1f76faa4f25bd0eb32a4fb6c46659e5"
+		}
+	]
+}
