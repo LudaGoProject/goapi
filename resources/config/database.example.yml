@@ -1,0 +1,5 @@
+db:
+  adapter: mysql
+  name: goapi_dev
+  user: root
+  password: 123456  
